@@ -2,8 +2,6 @@
 ### Olá! Eu sou o Ylan 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ylanfelipp/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ylanfelipp/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Ylanp/)
 
 ![Ylan GitHub stats](https://github-readme-stats.vercel.app/api?username=ylanfelipp&show_icons=true&theme=cobalt&locale=pt-br)
 
